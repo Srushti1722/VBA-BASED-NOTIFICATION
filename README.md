@@ -6,7 +6,8 @@ VBA-Based Notification System (Plain Text Version)
 📌 **Overview**
 
 
-	The VBA-Based Notification System automates email notifications using VBA macros in Microsoft Excel. It identifies upcoming events from a worksheet and sends plain text email 
+	The VBA-Based Notification System automates email notifications using VBA macros in Microsoft Excel. 
+ 	It identifies upcoming events from a worksheet and sends plain text email 
  	reminders two days before the event. This system ensures timely notifications, reduces manual effort, and improves communication efficiency.
 
 
