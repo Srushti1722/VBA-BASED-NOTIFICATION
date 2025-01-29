@@ -49,8 +49,10 @@ VBA-Based Notification System (Plain Text Version)
 
  
 🚀 **Future Enhancements**
-	HTML email formatting for better readability.
-	Google Calendar integration for real-time scheduling.
-	Customizable notification intervals (e.g., 1-week reminders).
+
+
+	-HTML email formatting for better readability.
+	-Google Calendar integration for real-time scheduling.
+	-Customizable notification intervals (e.g., 1-week reminders).
 
 
