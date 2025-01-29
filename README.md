@@ -11,6 +11,8 @@ VBA-Based Notification System (Plain Text Version)
 
 
 ✨ **Features**
+
+
 	Automated Email Notifications 📧 – Sends reminders based on event schedules.
 	Excel Integration 📊 – Stores and manages event details and recipient emails.
 	Secure Email Sending 🔐 – Uses Gmail SMTP with CDO, SSL encryption, and app password authentication.
@@ -20,6 +22,8 @@ VBA-Based Notification System (Plain Text Version)
 
  
 🛠️ **Installation & Setup**
+
+
 	*Enable Macros*: 
  		Open Excel and allow VBA macros.
 	*Configure Gmail SMTP*:
@@ -33,6 +37,8 @@ VBA-Based Notification System (Plain Text Version)
 
   
 📂 **File Structure**
+
+
 	notification_system.xlsm – Excel file with VBA macros.
 	VBA_Code.bas – Main VBA script for email automation.
 
