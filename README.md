@@ -57,4 +57,13 @@ VBA-Based Notification System (Plain Text Version)
 	-Google Calendar integration for real-time scheduling.
 	-Customizable notification intervals (e.g., 1-week reminders).
 
+👥 **Contributors**
+👨‍💻 SRUSHTI
+👨‍💻 Riya Prasad
+👨‍💻 Sneha J
 
+
+📜 **License**
+🔓 MIT License – Feel free to use, modify, and contribute!
+
+🎯 Let's build a world of error-free data transmission! 🚀
