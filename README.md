@@ -3,7 +3,9 @@ The "VBA-Based Notification System (Plain Text Version)" automates email reminde
 VBA-Based Notification System (Plain Text Version)
 
 **Make sure to use this in Excel ap in your pc only.
+
 Make sure your Macros is on .
+
 You can go to the Mainbot for gaining any information.**
 
 
@@ -60,9 +62,14 @@ You can go to the Mainbot for gaining any information.**
 	-Customizable notification intervals (e.g., 1-week reminders).
 
 👥 **Contributors**
+
 👨‍💻 SRUSHTI
+
 👨‍💻 Riya Prasad
+
 👨‍💻 Sneha J
+
+
 
 
 📜 **License**
