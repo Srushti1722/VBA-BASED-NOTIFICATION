@@ -2,11 +2,11 @@
 The "VBA-Based Notification System (Plain Text Version)" automates email reminders using VBA macros in Excel. It extracts event details from a worksheet and sends plain text emails via Gmail’s SMTP with CDO, SSL encryption, and app password authentication. The system ensures timely notifications and logs delivery statuses for easy tracking.
 VBA-Based Notification System (Plain Text Version)
 
-**Make sure to use this in Excel ap in your pc only.
+**Make sure to use this in Excel ap in your pc only.**
 
-Make sure your Macros is on .
+**Make sure your Macros is on .**
 
-You can go to the Mainbot for gaining any information.**
+**You can go to the Mainbot for gaining any information.**
 
 
 📌 **Overview**
